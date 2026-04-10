@@ -1,1 +1,1 @@
-Task 2: Print all arguments
+Task 3: Multiplication
