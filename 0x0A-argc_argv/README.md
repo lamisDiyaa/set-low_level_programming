@@ -1,1 +1,1 @@
-This project is about command line arguments
+Task 2: Print all arguments
